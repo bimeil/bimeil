@@ -10,6 +10,7 @@ When mounting a drive it will appear as if the drive has the full size of the fi
 - Suitable for portability (read more below).
 - Userspace/FUSE powered (no need to enable or customize your kernel)
 - Strong/high pbkdf2 default (500000 compared to truecrypt outdated 1000)
+
 ##Cons
 - Bookkeeping overhead in storage and memory
 - May corrupt drives not mounted (readonly mode can prevent this)
